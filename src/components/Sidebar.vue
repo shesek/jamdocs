@@ -138,7 +138,6 @@ export default {
 
 nav {
   position: relative;
-  min-height: 100%;
   border: 1px solid transparent;
   padding-bottom: 40px;
 }
